@@ -1,0 +1,30 @@
+main{
+    width: 50%;
+    margin: auto;  
+    
+}
+form{
+    background-color: blueviolet;
+}
+.fi{
+    border-color: aqua;
+}
+.fi input{
+    background-color: aquamarine;
+    float: right;
+    width: 220px;
+    margin-right: 150px;
+    
+}
+.szem input{
+    float: right;
+    margin-right: 240px;
+    background-color: aquamarine;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+
